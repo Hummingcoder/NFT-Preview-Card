@@ -24,5 +24,5 @@ Users should be able to:
 
 ### Links
 
-- Frontend Mentor URL: [click here](https://your-solution-url.com)
-- Live Site URL: [click here](https://your-live-site-url.com)
+- Frontend Mentor URL: [click here](https://www.frontendmentor.io/solutions/nft-preview-card-Uk-HDnvVIX)
+- Live Site URL: [click here](https://hummingcoder.github.io/NFT-Preview-Card/)
